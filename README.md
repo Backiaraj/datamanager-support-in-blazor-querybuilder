@@ -1,5 +1,5 @@
 # Create a Blazor QueryBuilder component with DataManager
-A quick start blazor server app that allows you to configure the Blazor QueryBuilder component from Syncfusion with DataManager support. This project contains Querybuilder and Grid which filters the data using DataManager.
+This blazor server app that allows you to configure the Blazor QueryBuilder component with DataManager support from Syncfusion.
 
 Documentation: https://blazor.syncfusion.com/documentation/toggle-switch-button/getting-started
 
